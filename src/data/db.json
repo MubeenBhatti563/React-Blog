@@ -9,6 +9,11 @@
       "id": "2",
       "title": "Edoroam",
       "description": "Yes, I know about eduroam — it’s a global education and research Wi-Fi network. In Pakistan, the Higher Education Commission (HEC) has implemented eduroam across many public universities.\n\nIt lets students, faculty, and researchers securely access the internet on campus (and even at other eduroam-enabled institutions worldwide) using their university email credentials.\n\nWould you like me to explain how to connect to eduroam or how it works behind the scenes (authentication, RADIUS servers, etc.)?\ndjango developers"
+    },
+    {
+      "id": "3",
+      "title": "Hello World",
+      "description": "This is the first program written by the most of the begineer programmars."
     }
   ]
 }
